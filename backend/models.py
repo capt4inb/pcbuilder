@@ -14,6 +14,7 @@ class Component(Base):
     ram_type = Column(String, nullable=True)
     wattage = Column(Integer, nullable=True)
     price = Column(Float)
+    image_url = Column(String, nullable=True)
     updated_at = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
 
 class Build(Base):

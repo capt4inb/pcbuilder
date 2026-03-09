@@ -1,0 +1,252 @@
+[
+  {
+    "category": "CPU",
+    "model": "Intel Core i5-12400F",
+    "brand": "Intel",
+    "price": 3299000,
+    "image_url": "https://hanoicomputercdn.com/media/product/64366_cpu_intel_core_i5_12400f.jpg",
+    "socket": "LGA1700"
+  },
+  {
+    "category": "CPU",
+    "model": "Intel Core i5-12400",
+    "brand": "Intel",
+    "price": 4499000,
+    "image_url": "https://hanoicomputercdn.com/media/product/64365_cpu_intel_core_i5_12400.jpg",
+    "socket": "LGA1700"
+  },
+  {
+    "category": "CPU",
+    "model": "AMD Ryzen 5 5600X",
+    "brand": "AMD",
+    "price": 3199000,
+    "image_url": "https://hanoicomputercdn.com/media/product/56157_cpu_amd_ryzen_5_5600x.jpg",
+    "socket": "AM4"
+  },
+  {
+    "category": "CPU",
+    "model": "AMD Ryzen 3 3200G",
+    "brand": "AMD",
+    "price": 1299000,
+    "image_url": "https://hanoicomputercdn.com/media/product/48123_cpu_amd_ryzen_3_3200g.jpg",
+    "socket": "AM4"
+  },
+  {
+    "category": "CPU",
+    "model": "AMD Ryzen 5 3400G",
+    "brand": "AMD",
+    "price": 1699000,
+    "image_url": "https://hanoicomputercdn.com/media/product/48124_cpu_amd_ryzen_5_3400g.jpg",
+    "socket": "AM4"
+  },
+  {
+    "category": "CPU",
+    "model": "Intel Core i7-12700F",
+    "brand": "Intel",
+    "price": 6399000,
+    "image_url": "https://hanoicomputercdn.com/media/product/64364_cpu_intel_core_i7_12700f.jpg",
+    "socket": "LGA1700"
+  },
+  {
+    "category": "CPU",
+    "model": "Intel Core i3-12100",
+    "brand": "Intel",
+    "price": 3299000,
+    "image_url": "https://hanoicomputercdn.com/media/product/64367_cpu_intel_core_i3_12100.jpg",
+    "socket": "LGA1700"
+  },
+  {
+    "category": "CPU",
+    "model": "AMD Ryzen 5 5600G",
+    "brand": "AMD",
+    "price": 3199000,
+    "image_url": "https://hanoicomputercdn.com/media/product/60123_cpu_amd_ryzen_5_5600g.jpg",
+    "socket": "AM4"
+  },
+  {
+    "category": "CPU",
+    "model": "AMD Athlon 3000G",
+    "brand": "AMD",
+    "price": 899000,
+    "image_url": "https://hanoicomputercdn.com/media/product/50123_cpu_amd_athlon_3000g.jpg",
+    "socket": "AM4"
+  },
+  {
+    "category": "CPU",
+    "model": "Intel Core i7-12700",
+    "brand": "Intel",
+    "price": 7599000,
+    "image_url": "https://hanoicomputercdn.com/media/product/64363_cpu_intel_core_i7_12700.jpg",
+    "socket": "LGA1700"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS TUF GAMING B550M-PLUS",
+    "brand": "ASUS",
+    "price": 2899000,
+    "image_url": "https://hanoicomputercdn.com/media/product/55123_mainboard_asus_tuf_gaming_b550m_plus.jpg",
+    "socket": "AM4",
+    "ram_type": "DDR4"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS PRIME B550M-A",
+    "brand": "ASUS",
+    "price": 2399000,
+    "image_url": "https://hanoicomputercdn.com/media/product/55124_mainboard_asus_prime_b550m_a.jpg",
+    "socket": "AM4",
+    "ram_type": "DDR4"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS TUF GAMING Z790 PLUS WIFI DDR5",
+    "brand": "ASUS",
+    "price": 6999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/70123_mainboard_asus_tuf_gaming_z790_plus_wifi.jpg",
+    "socket": "LGA1700",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS PRIME H510M-K R2.0",
+    "brand": "ASUS",
+    "price": 1799000,
+    "image_url": "https://hanoicomputercdn.com/media/product/60124_mainboard_asus_prime_h510m_k.jpg",
+    "socket": "LGA1200",
+    "ram_type": "DDR4"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS TUF GAMING B650M-PLUS WIFI",
+    "brand": "ASUS",
+    "price": 4399000,
+    "image_url": "https://hanoicomputercdn.com/media/product/65123_mainboard_asus_tuf_gaming_b650m_plus_wifi.jpg",
+    "socket": "AM5",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS PRIME Z790-P WIFI-CSM DDR5",
+    "brand": "ASUS",
+    "price": 4999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/70125_mainboard_asus_prime_z790_p_wifi.jpg",
+    "socket": "LGA1700",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS PRIME Z790-P CSM DDR5",
+    "brand": "ASUS",
+    "price": 4499000,
+    "image_url": "https://hanoicomputercdn.com/media/product/70126_mainboard_asus_prime_z790_p_csm.jpg",
+    "socket": "LGA1700",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS TUF GAMING X870-PLUS WIFI",
+    "brand": "ASUS",
+    "price": 9999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/87123_mainboard_asus_tuf_gaming_x870_plus_wifi.jpg",
+    "socket": "AM5",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS TUF GAMING Z890-PLUS WIFI DDR5",
+    "brand": "ASUS",
+    "price": 7899000,
+    "image_url": "https://hanoicomputercdn.com/media/product/89123_mainboard_asus_tuf_gaming_z890_plus_wifi.jpg",
+    "socket": "LGA1851",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "Motherboard",
+    "model": "ASUS ROG STRIX X870-F GAMING WIFI",
+    "brand": "ASUS",
+    "price": 12999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/87124_mainboard_asus_rog_strix_x870_f.jpg",
+    "socket": "AM5",
+    "ram_type": "DDR5"
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL-RTX 3050-6G",
+    "brand": "ASUS",
+    "price": 5599000,
+    "image_url": "https://hanoicomputercdn.com/media/product/81690_card_man_hinh_asus_dual_rtx_3050_6g__2_.jpg",
+    "wattage": 70
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL RTX 3050-8G-V2",
+    "brand": "ASUS",
+    "price": 6999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/71868_card_man_hinh_asus_dual_rtx_3050_8g_v2_at__1_.jpg",
+    "wattage": 130
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL-RTX 3050-O6G",
+    "brand": "ASUS",
+    "price": 5599000,
+    "image_url": "https://hanoicomputercdn.com/media/product/81012_2card_man_hinh_asus_dual_rtx_3050_o6g__1_.jpg",
+    "wattage": 70
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS PRIME RTX 5060 Ti 16G OC",
+    "brand": "ASUS",
+    "price": 16799000,
+    "image_url": "https://hanoicomputercdn.com/media/product/90530_card_man_hinh_asus_prime_rtx_5060_ti_16g_oc__2_.jpg",
+    "wattage": 165
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL RTX 5070 12G OC GDDR7",
+    "brand": "ASUS",
+    "price": 19999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/92680_card_man_hinh_asus_dual_rtx_5070_12g_oc_gddr7__5_.jpg",
+    "wattage": 200
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL GeForce RTX 5050-8G GDDR6",
+    "brand": "ASUS",
+    "price": 8099000,
+    "image_url": "https://hanoicomputercdn.com/media/product/92421_dual_rtx5050_8g_01.jpg",
+    "wattage": 115
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS ROG ASTRAL RTX 5080 16G OC WHITE",
+    "brand": "ASUS",
+    "price": 54999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/92604_card_man_hinh_asus_rog_astral_rtx_5080_16g_oc_white__7_.png",
+    "wattage": 350
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL RTX 5060 Ti O8G",
+    "brand": "ASUS",
+    "price": 12699000,
+    "image_url": "https://hanoicomputercdn.com/media/product/90591_card_man_hinh_asus_dual_rtx_5060_ti_o8g__3_.jpg",
+    "wattage": 160
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS DUAL RTX 5060 Ti 16G OC",
+    "brand": "ASUS",
+    "price": 16399000,
+    "image_url": "https://hanoicomputercdn.com/media/product/90531_card_man_hinh_asus_dual_rtx_5060_ti_16g_oc__2_.jpg",
+    "wattage": 165
+  },
+  {
+    "category": "GPU",
+    "model": "ASUS TUF GAMING RTX 5070TI 16G GDDR7 OC",
+    "brand": "ASUS",
+    "price": 35999000,
+    "image_url": "https://hanoicomputercdn.com/media/product/88635_card_man_hinh_asus_tuf_gaming_rtx_5070ti_16g_gddr7_oc__2_.jpg",
+    "wattage": 285
+  }
+]

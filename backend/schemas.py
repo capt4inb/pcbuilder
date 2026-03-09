@@ -10,6 +10,7 @@ class ComponentBase(BaseModel):
     ram_type: Optional[str] = None
     wattage: Optional[int] = None
     price: float
+    image_url: Optional[str] = None
 
 class ComponentCreate(ComponentBase):
     pass
